@@ -1,0 +1,9 @@
+com\crudApp\controllers\StudentController.class
+com\crudApp\config\AppConfig.class
+com\crudApp\service\StudentService.class
+com\crudApp\entities\Student.class
+com\crudApp\service\StudentServiceImpl.class
+com\crudApp\config\AppContext.class
+com\crudApp\dao\StudentDAO.class
+com\crudApp\config\AppInitializer.class
+com\crudApp\dao\StudentDAOImpl.class
